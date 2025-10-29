@@ -6,7 +6,7 @@ import learning.cleancmp.domain.useCases.ObserveUsersUseCase
 
 /**
  * Koin DI Module
- * Defines all dependencies for the application
+ * Defines use cases dependencies for the application
  */
 val useCaseModule = module {
     // Use Cases

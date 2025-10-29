@@ -8,6 +8,7 @@ import org.koin.dsl.module
  */
 val koinModule = module {
     // Use Cases
+    viewModelModule
     useCaseModule
     repositoryModule
 }
