@@ -1,0 +1,1 @@
+✅ Purpose: The domain layer has no knowledge of ViewModel or UI — only pure logic.
