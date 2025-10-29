@@ -1,0 +1,1 @@
+✅ Purpose: Encapsulates how data is fetched/stored; the domain doesn’t care about details.

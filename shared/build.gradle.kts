@@ -38,6 +38,8 @@ kotlin {
         commonMain.dependencies {
             implementation(libs.kotlinx.coroutines.core)
             implementation(libs.koin.core)
+            implementation(libs.koin.compose)
+            implementation(libs.androidx.lifecycle.viewmodelCompose)
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)
